@@ -1,8 +1,8 @@
   ### Hello there! Eu sou o Aelton Teixeira de Jesus
   
-- 👨‍🎓 Estudante de Tecnologia da Informação
-- 👨‍🏭 Trabalho atualmente como Mecânico de manutenção
-- 🌎 Buscando a primeira oportunidade na área da tecnologia
+- 👨‍🎓 Graduado em Tecnologia da Informação
+- 👨‍🏭 Analista de Dados
+- 🌎 Sempre buscando novos desafios
 
 <div align="center">
   <a href="https://github.com/TomJesus">
@@ -13,7 +13,6 @@
   
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="Tom-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Tom-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Tom-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Tom-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
